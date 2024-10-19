@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Shenzan ali !<br><br>I'm a MERN stack developer, software engineer, and full-stack website developer with a passion for learning and building. Currently, I'm exploring cybersecurity and data science to expand my skills beyond traditional development.<br>
+👋 Hello, I'm Shenzan ali !<br><br>I'm a MERN stack developer, software engineer, and full-stack website developer with a passion for learning and building.<br>
 
 
 ## 🌐 Socials:
